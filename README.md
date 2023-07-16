@@ -1,5 +1,4 @@
 # Pantone-color-libraries
- Pantone color libraries as .acb files for Photoshop etc
 
 Pantone color libraries as .acb files for Adobe Photoshop, Illustrator etc, downloaded with Pantone Color Manager in August 2019.
 
